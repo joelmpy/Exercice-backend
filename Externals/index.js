@@ -1,11 +1,13 @@
 const express = require('express');
 const app = express();
-const port = 8003;
+const port = 8005
+const gameRoute = require('./routes/route')
 
-app.get('/', (req, res) => {
-    res.send('Bonjour a tous ici Externals')
-})
+
+app.use('/', gameRoute);
+
 
 app.listen(port, () => {
-    console.log('Serveur started on port' , port)
-})
+    console.log("Serveur started on port", port);
+  });
+  
