@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "firstName": "Luffy",
+        "lastName": "Monkey D.",
+        "fullName": "Monkey D. Luffy",
+        "title": "One piece",
+        "family": "Monkey D.",
+        "imageUrl": "https://th.bing.com/th/id/OIP.spQ0KKUQrYK6IXqiEP4rEQHaEF?pid=ImgDet&rs=1"
+    },{
+        "id": 1,
+        "firstName": "Zoro",
+        "lastName": "Monkey D.",
+        "fullName": "Monkey D. Luffy",
+        "title": "One piece",
+        "family": "Monkey D.",
+        "imageUrl": "https://th.bing.com/th/id/OIP.spQ0KKUQrYK6IXqiEP4rEQHaEF?pid=ImgDet&rs=1"
+    }
+    ,{
+        "id": 2,
+        "firstName": "Nami",
+        "lastName": "Monkey D.",
+        "fullName": "Monkey D. Luffy",
+        "title": "One piece",
+        "family": "Monkey D.",
+        "imageUrl": "https://th.bing.com/th/id/OIP.spQ0KKUQrYK6IXqiEP4rEQHaEF?pid=ImgDet&rs=1"
+    }
+
+] 
