@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "first_name": "Humfried",
+    "last_name": "Daly",
+    "gender": "Male"
+  }, {
+    "id": 2,
+    "first_name": "Joyce",
+    "last_name": "Ivanovic",
+    "gender": "Female"
+  }, {
+    "id": 3,
+    "first_name": "Mattie",
+    "last_name": "D'Ambrogio",
+    "gender": "Male"
+  }, {
+    "id": 4,
+    "first_name": "Ailey",
+    "last_name": "Leyton",
+    "gender": "Female"
+  }, {
+    "id": 5,
+    "first_name": "Jessee",
+    "last_name": "Mellings",
+    "gender": "Male"
+  }]
